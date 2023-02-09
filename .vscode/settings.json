@@ -1,0 +1,22 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-3.0.2.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-3.0.2-javadoc.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-3.0.2-sources.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-demo-3.0.2.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-demo-3.0.2-sources.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-examples-3.0.2.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-examples-3.0.2-javadoc.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\javaluator-examples-3.0.2-sources.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\Javaluator-v3.0.2\\original-javaluator-demo-3.0.2.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.base.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.media.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar",
+        "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar"
+    ]
+}

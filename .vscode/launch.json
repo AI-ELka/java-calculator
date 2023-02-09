@@ -15,7 +15,7 @@
             "name": "Launch calculator",
             "request": "launch",
             "mainClass": "calculator",
-            "projectName": "fxcalac1_15a15183",
+            "projectName": "fxcalac1_990adb78",
             "vmArgs": "--module-path 'C:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib' --add-modules javafx.controls,javafx.fxml"
         }
     ]

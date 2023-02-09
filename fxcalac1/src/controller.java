@@ -65,7 +65,7 @@ public class controller {
             
         }
         else{
-            s+=btn.getText() ;System.out.println(s);
+            s+=btn.getText() ;
             lbl.setText(s);
         }
         

@@ -10,7 +10,9 @@ public class calculator extends Application {
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("calculator1.fxml"));
         primaryStage.setTitle("Calculator");
-        primaryStage.setScene(new Scene(root));
+        Scene scene =new Scene(root);
+        primaryStage.setScene(scene);
+        // scene.getStylesheets().add(getClass().getResource("style.css").toExternalForm());
         primaryStage.show();
     }
 

@@ -18,5 +18,6 @@
         "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar",
         "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar",
         "c:\\Users\\hp\\Documents\\codes\\javalibful\\openjfx-19.0.2.1_windows-x64_bin-sdk\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }

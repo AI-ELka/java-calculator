@@ -1,0 +1,56 @@
+
+
+#lbl {
+    -fx-background-color: white;
+    -fx-font-size: 24px;
+    -fx-alignment: center-right;
+    -fx-padding: 10px;
+    -fx-border-width: 2px;
+    -fx-border-radius: 7px;
+    -fx-border-color: darkgray;
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-background-color: darkgoldenrod;
+
+    -fx-border-radius: 70px;
+    
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+}
+
+.button:hover {
+    -fx-background-color: darkkhaki;
+}
+
+.button:pressed {
+    -fx-background-color: goldenrod;
+}
+
+#btn0 #btn00 {
+    -fx-min-width: 110px;
+}
+
+
+#del {
+    -fx-background-color: darkred;
+    
+    -fx-font-size: 18px;
+}
+
+#del:hover {
+    -fx-background-color: firebrick;
+}
+
+#eq {
+    -fx-background-color: darkgreen;
+    
+    -fx-font-size: 18px;
+}
+
+#eq:hover {
+    -fx-background-color: forestgreen;
+}

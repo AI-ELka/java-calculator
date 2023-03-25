@@ -15,7 +15,9 @@ import com.fathzer.soft.javaluator.DoubleEvaluator;
 
 import javafx.event.*;
 
+
 public class controller {
+    
     // @FXML
     // ScriptEngineManager manager = new ScriptEngineManager();
     // ScriptEngine engine = manager.getEngineByName("js");
